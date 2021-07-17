@@ -4,6 +4,7 @@
             "id": 0,
             "name": "Three Dollar Cafe",
             "web": "https://www.threedollarcafe.com/locations/mcdonough/",
+            "comments": "My favorite place to go.",
             "addresses": [
                 {
                     "addressid": "0",
@@ -19,7 +20,7 @@
             "id": 1,
             "name": "Miyako Japanese Sushi & Steakhouse",
             "web": "https://www.miyakomcdonough.com/",
-            "comments": "The best Japanese food I have tasted in a long time!",
+            "comments": "The best Japanese food I have eaten in a long time!",
             "addresses": [
                 {
                     "addressid": "1",
@@ -67,7 +68,7 @@
             "id": 4,
             "name": "Davinci's NY Style Pizza",
             "web": "https://www.davincisnystylepizza.com/",
-            "comments": "I like this joint.",
+            "comments": "The pizza was not all that like the manager stated.",
             "addresses": [
                 {
                     "addressid": "4",
