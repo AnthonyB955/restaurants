@@ -17,45 +17,48 @@
         },
         {
             "id": 1,
-            "name": "",
-            "web": "",
+            "name": "Miyako Japanese Sushi & Steakhouse",
+            "web": "https://www.miyakomcdonough.com/",
+            "comments": "The best Japanese food I have tasted in a long time!",
             "addresses": [
                 {
                     "addressid": "1",
-                    "number": "1000",
-                    "line1": "Regency Plaza Boulevard",
+                    "number": "108",
+                    "line1": "South Point Boulevard",
                     "line2": "McDonough, GA",
-                    "zipcode": "30253-6668",
+                    "zipcode": "30253",
                     "country": "United States"
                 }
             ]
         },
         {
             "id": 2,
-            "name": "",
-            "web": "",
+            "name": "Culver's",
+            "web": "https://www.culvers.com/restaurants/mcdonough-ga-hwy-81",
+            "comments": "The worst burgers I have ever had.  I will never go back here again!",
             "addresses": [
                 {
                     "addressid": "2",
-                    "number": "1000",
-                    "line1": "Regency Plaza Boulevard",
+                    "number": "90 Hwy 81 W",
+                    "line1": "Hwy 81 W",
                     "line2": "McDonough, GA",
-                    "zipcode": "30253-6668",
+                    "zipcode": "30253",
                     "country": "United States"
                 }
             ]
         },
         {
             "id": 3,
-            "name": "",
-            "web": "",
+            "name": "Miller's Ale House",
+            "web": "https://millersalehouse.com/",
+            "comments": "I like this joint.",
             "addresses": [
                 {
                     "addressid": "3",
-                    "number": "1000",
-                    "line1": "Regency Plaza Boulevard",
+                    "number": "1490",
+                    "line1": "GA-20",
                     "line2": "McDonough, GA",
-                    "zipcode": "30253-6668",
+                    "zipcode": "30253",
                     "country": "United States"
                 }
             ]
